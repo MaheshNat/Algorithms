@@ -2,6 +2,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SetsOfNumbersAddingToConstant",
+            "request": "launch",
+            "mainClass": "SetsOfNumbersAddingToConstant"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Knapsack",
+            "request": "launch",
+            "mainClass": "Knapsack"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LargestSquare",
+            "request": "launch",
+            "mainClass": "LargestSquare"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LargestRectangle",
+            "request": "launch",
+            "mainClass": "LargestRectangle"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PathsInAGrid",
             "request": "launch",
             "mainClass": "PathsInAGrid"
