@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - FloodFill",
+            "request": "launch",
+            "mainClass": "FloodFill",
+            "projectName": "Algorithms_1e7096ae"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BreadthFirstSearch",
+            "request": "launch",
+            "mainClass": "BreadthFirstSearch",
+            "projectName": "Algorithms_1e7096ae"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SetsOfNumbersAddingToConstant",
             "request": "launch",
             "mainClass": "SetsOfNumbersAddingToConstant"
